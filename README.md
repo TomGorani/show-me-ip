@@ -7,7 +7,7 @@
 <br><br>
 # Detail
 <br><br>
-1. 송신 역할을 하는 Gmail 과 Gmail 의 앱 비밀번호를 Send mail 양식에 작성합니다.
+ 1. 송신 역할을 하는 Gmail 과 Gmail 의 앱 비밀번호를 Send mail 양식에 작성합니다.
 
 2. 수신 받을 메일의 주소를 Receive mail 양식에 기입합니다.
 
