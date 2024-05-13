@@ -3,7 +3,7 @@
 실시간 외부 IP 를 이메일로 송신해줍니다.
 
 <br>
-# Requirement<br>
+# Requirement<br><br>
 2단계 인증을 설정한 Gmail 계정으로 앱 비밀번호를 설정하여야 합니다. (코드 내의 PASSWORD 입력부분을 앱 비밀번호로 기입하여야 합니다.)
 
 <Detail>
